@@ -256,7 +256,7 @@ public class MainActivity2 extends AppCompatActivity {
 ```
 ## OUTPUT:
 
-![WhatsApp Image 2024-10-24 at 11 31 08 AM](https://github.com/user-attachments/assets/d4dd07c6-4b04-4215-b935-db537c5532be)
+![workshopmad](https://github.com/user-attachments/assets/d4dd07c6-4b04-4215-b935-db537c5532be)
 
 
 
