@@ -256,8 +256,7 @@ public class MainActivity2 extends AppCompatActivity {
 ```
 ## OUTPUT:
 
-![alt text](WhatsApp Image 2024-10-26 at 17.06.01_39971178)
-
+![alt text](workshopmad)
 
 
 ## RESULT:
