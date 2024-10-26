@@ -256,9 +256,7 @@ public class MainActivity2 extends AppCompatActivity {
 ```
 ## OUTPUT:
 
-![workshopmad](https://github.com/user-attachments/assets/d4dd07c6-4b04-4215-b935-db537c5532be)
-
-
+![workshopmad]
 
 
 
