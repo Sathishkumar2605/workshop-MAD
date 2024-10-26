@@ -256,7 +256,7 @@ public class MainActivity2 extends AppCompatActivity {
 ```
 ## OUTPUT:
 
-![alt text](workshopmad)
+![alt text](workshopmad.jpg)
 
 
 ## RESULT:
